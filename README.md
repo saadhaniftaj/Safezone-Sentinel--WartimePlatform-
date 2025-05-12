@@ -2,13 +2,6 @@
 
 ## Course Information
 **CE308 – Cloud Computing**  
-Submitted to: Ma'am Safia Baloch
-
-## Team Members
-- Saad – 2022509
-- Ahmed – 2022054
-- Aiza – 2022077
-- Mustafa – 2022407
 
 ## Introduction
 SafeZoneSentient is a cloud-native crisis management system designed for high-stakes scenarios like war zones or large-scale disasters. The platform provides real-time, trustworthy information through a public-facing interface that disseminates verified alerts, facilitates civilian reporting, and assists with situation awareness through map-based visualizations and real-time notifications.
@@ -99,33 +92,6 @@ Built entirely on Amazon Web Services (AWS), the solution is:
 - [ ] Offline mode with PWA caching
 - [ ] User authentication (Amazon Cognito)
 - [ ] Multi-language support (Urdu, Pashto, Sindhi)
-
-## Installation
-```bash
-# Clone the repository
-git clone https://github.com/saadhaniftaj/Safezone-Sentinel--WartimePlatform-.git
-
-# Navigate to project directory
-cd safezone-sentinel
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-```
-
-## Contributing
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-- Developed as part of CE308 – Cloud Computing course
+ of CE308 – Cloud Computing course
 - Submitted to: Ma'am Safia Baloch
 - Special thanks to the entire development team for their dedication and hard work 
